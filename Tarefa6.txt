@@ -1,0 +1,9 @@
+Início
+    Leia nota1, nota2, nota3
+    média ← (nota1 + nota2 + nota3) / 3
+    Se média >= 5 então
+        Escreva "Aluno aprovado com média: ", média
+    Senão
+        Escreva "Aluno reprovado com média: ", média
+    FimSe
+Fim
